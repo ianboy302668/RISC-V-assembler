@@ -10,7 +10,7 @@
 
 using namespace std;
 
-//ref: https://stackoverflow.com/questions/3113979/how-to-create-map-with-keys-values-inside-class-body-once-not-each-time-functio
+
 
 string type_i[15] = { "jalr", "lb", "lh",  "lw",  "lbu",  "lhu",  "addi",  "slti",  "sltiu",  "xori", "ori", "andi", "slli", "srli", "srai"};
 string type_r[8] = { "add",  "sub",  "sll",  "slt",  "sltu", "xor", "or", "and" };
