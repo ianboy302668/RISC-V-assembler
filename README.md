@@ -26,15 +26,15 @@
 2. 確認輸出結果
 
 ## 輸入範例
-	add x2,x2,x23
-	lui x2,18
-	addi x24,x24,2
-	bne x24,x23,L2
-	sw x27,0(x10)
-	beq x0,x0,L1
+	   add x2,x2,x23
+	   lui x2,18
+	   addi x24,x24,2
+	   bne x24,x23,L2
+	   sw x27,0(x10)
+	   beq x0,x0,L1
 	L2: sw x1,0(x2)
 	L1: addi x24,x24,1
-	jalr x0,0(x1)
+	   jalr x0,0(x1)
 
 
 
