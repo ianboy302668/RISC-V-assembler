@@ -11,6 +11,7 @@ RISC-V assembler simulator
 * U -type 
 * UJ-type
 * SB-type 
+
 以上六種類型指令皆可接受
 
 ## 使用說明
