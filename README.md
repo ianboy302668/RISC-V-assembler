@@ -1,10 +1,9 @@
-# Assembler for RV32I
-RISC-V assembler simulator
+# RISC-V assembler simulator for RV32I
 
-## 專案說明
+### 專案說明
 此為計算機組織程式作業，目標為將輸入之 RV32I 系列指令轉為相對應的Machine code。
 
-## 功能說明
+### 功能說明
 * I -type
 * R -type
 * S -type 
@@ -14,11 +13,11 @@ RISC-V assembler simulator
 
 以上六種類型指令皆可接受
 
-## 使用說明
+### 使用說明
 1. 輸入參數:檔案位置	
 2. 確認輸出結果
 
-## 輸出範例
+### 輸出範例
 	Type R
 	Machine code : 00000 00 10111 00010 000 00010 0110011
 	Type I        11   7  5   0
